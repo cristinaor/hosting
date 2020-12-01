@@ -1,0 +1,52 @@
+header {
+  background-color: blue;
+  color: white;
+  padding: 5%;
+  text-align: 5%;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+nav {
+  background-color: burlywood;
+  color: white;
+  padding: 5%;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+section {
+  background-color: red;
+  color: white;
+  float: left;
+  padding: 10%;
+  width: 25%;
+  height: 80px;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+article {
+  background-color: seagreen;
+  color: white;
+  width: 80%;
+  height: 62px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  clear: both;
+}
+aside {
+  background-color: purple;
+  color: white;
+  float: right;
+  padding: 10%;
+  width: 35%;
+  height: 80px;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+footer {
+  background-color: rosybrown;
+  color: white;
+  clear: both;
+  padding: 1%;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
